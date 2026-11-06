@@ -14,7 +14,7 @@ BANNER = r"""
 / /___| (_| | | |_/ /___| (_| || | | |
 \____/ \__,_|  \__\____/ \__, ||_| |_|
                          |___/
-          Made By D6VAlex  
+          Made By D6VAlex > V2 
 """
 
 def show_banner():
