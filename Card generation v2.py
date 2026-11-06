@@ -1,4 +1,5 @@
-#!/usr/bin/env python3
+#Just For Fun ! 
+#For entertainment purposes only; I take no responsibility for anyone who uses this in an unethical manner
 import json
 import random
 import string
